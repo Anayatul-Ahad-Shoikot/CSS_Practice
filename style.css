@@ -1,3 +1,9 @@
 h2 {
-    color: green;
+    color: red;
+    
+    align-content: center;
+}
+
+body {
+    background-color: black;
 }
